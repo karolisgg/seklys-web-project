@@ -4,6 +4,8 @@
 *.js
 *.properties
 
+!script.js
+
 # Compiled class file
 *.class
 
